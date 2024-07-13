@@ -1,0 +1,1 @@
+console.log('leave javascript, lock in wit typescript to become a true type-safety lover')
